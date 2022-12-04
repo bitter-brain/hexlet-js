@@ -1,0 +1,27 @@
+{
+  "name": "hexlet",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "my first project on Hexlet \"Brain Games\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitter-brain/hexlet-js.git"
+  },
+  "keywords": [
+    "hexlet",
+    "brain",
+    "games",
+    "first",
+    "project"
+  ],
+  "author": "bitter_brain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitter-brain/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/bitter-brain/hexlet-js#readme"
+}
