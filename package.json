@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/bitter-brain/hexlet-js/issues"
   },
-  "homepage": "https://github.com/bitter-brain/hexlet-js#readme"
+  "homepage": "https://github.com/bitter-brain/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
